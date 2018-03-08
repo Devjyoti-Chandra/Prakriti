@@ -1,0 +1,364 @@
+[
+	{
+		"The Blue Revolution is related with?": "Milk vein in cows contains :",
+		"Fish production": " Blood",
+		"Food grain production": "Milk and Blood",
+		"Oilseed production": "Milk",
+		"Milk production": "Water",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "Dr. Norman Borlaug is related with which revolution ?",
+		"Fish production": "Yellow Revolution",
+		"Food grain production": "Green Revolution",
+		"Oilseed production": "Grey Revolution",
+		"Milk production": "White Revolution",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "Jalpriya is a variety of—",
+		"Fish production": " Maize",
+		"Food grain production": "Jowar",
+		"Oilseed production": "Paddy",
+		"Milk production": "Barley",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "who is the father of ",
+		"Fish production": "Rieter ",
+		"Food grain production": "lipman",
+		"Oilseed production": "Norfork",
+		"Milk production": "Koppen",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "Which among the following is not a cereal?",
+		"Fish production": "Rice",
+		"Food grain production": "Wheat",
+		"Oilseed production": "Gram",
+		"Milk production": "Maize",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "Ratna variety of mango is a cross of..",
+		"Fish production": "Neelam × Dashehari",
+		"Food grain production": "Dashehari × Neelam",
+		"Oilseed production": "Neelam × Alphanso",
+		"Milk production": "Neelam × Amrapalli",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "The power consumed in secondary tillage operations per unit area",
+		"Fish production": "Less as compared to primary tillage",
+		"Food grain production": "More as compared to primary tillage",
+		"Oilseed production": "Same as primary tillage",
+		"Milk production": "None of these",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "A part of MB plough which lifts",
+		"Fish production": " turns and break furrow slice is",
+		"Food grain production": "Mouldboard",
+		"Oilseed production": "Share",
+		"Milk production": "Landside",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "The part of MB plough that resist the side pressure exerted by the furrow slice is",
+		"Fish production": "Landside",
+		"Food grain production": "Mouldboard",
+		"Oilseed production": "Gunnel",
+		"Milk production": "Frog",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "In disc plough the angle at which the plane of cutting edge of disc is inclined to the direction of travel",
+		"Fish production": "Disc angle",
+		"Food grain production": "Tilt angle",
+		"Oilseed production": "Gang angle",
+		"Milk production": "None of these",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "In disc plough the angle at which the plane of cutting edge of disc is inclined to the vertical line",
+		"Fish production": "Tilt angle",
+		"Food grain production": "Disc angle",
+		"Oilseed production": "Gang angle",
+		"Milk production": "None of these",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "Disc angle of standard disc plough varies from",
+		"Fish production": "42-45◦",
+		"Food grain production": "15-25◦",
+		"Oilseed production": "25-35◦",
+		"Milk production": "35-42◦",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "1 cP is equal to?",
+		"Fish production": "10^-3 pa.s",
+		"Food grain production": "10^-4 pa.s",
+		"Oilseed production": "10^-2 pa.s",
+		"Milk production": "10^-1 pa.s",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "The term ",
+		"Fish production": "Hydraulic dia",
+		"Food grain production": "Dia",
+		"Oilseed production": "Nominal dia",
+		"Milk production": "Enternal dia",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": "Shpae factor is equal to?",
+		"Fish production": "6. Vp/Sp.Dp",
+		"Food grain production": "6. Sp/Vp.Dp",
+		"Oilseed production": "Dp.Sp/6.Vp",
+		"Milk production": "Dp.Vp/6.Sp",
+		"": ""
+	},
+	{
+		"The Blue Revolution is related with?": " Unit of coeff of thermal conductivity?",
+		"Fish production": "W/m2K",
+		"Food grain production": "W/mk",
+		"Oilseed production": "W/m3k",
+		"Milk production": "W/mk2"
+	},
+	{
+		"The Blue Revolution is related with?": "Following are same in dimension.",
+		"Fish production": "U and h",
+		"Food grain production": "h and k",
+		"Oilseed production": "U and k ",
+		"Milk production": "All three"
+	},
+	{
+		"The Blue Revolution is related with?": "Capacity ratio for a regenerator is equal to?",
+		"Fish production": "1",
+		"Food grain production": "0",
+		"Oilseed production": "-1",
+		"Milk production": "None"
+	},
+	{
+		"The Blue Revolution is related with?": "7. Capacity ration for condenser is equal to?",
+		"Fish production": "0",
+		"Food grain production": "1",
+		"Oilseed production": "-1",
+		"Milk production": "None"
+	},
+	{
+		"The Blue Revolution is related with?": "8. Emmisivity for a black body is?",
+		"Fish production": "1",
+		"Food grain production": "0",
+		"Oilseed production": "0.5",
+		"Milk production": "None"
+	},
+	{
+		"The Blue Revolution is related with?": "9. A body moving upward. Which force will act on it in the upward direction?",
+		"Fish production": "Buoyancy",
+		"Food grain production": "Drag",
+		"Oilseed production": "Gravity",
+		"Milk production": "All"
+	},
+	{
+		"The Blue Revolution is related with?": "10. Centrifugal force makes a body to move in which direction?",
+		"Fish production": "Tangential",
+		"Food grain production": "Axial ",
+		"Oilseed production": "Radial",
+		"Milk production": "None"
+	},
+	{
+		"The Blue Revolution is related with?": "11. In Bond's law",
+		"Fish production": " unit of working index is?",
+		"Food grain production": "kW/hr. tonn",
+		"Oilseed production": "KW. tonn/hr",
+		"Milk production": "KW/tonn",
+		"": "KW/hr"
+	},
+	{
+		"The Blue Revolution is related with?": "The Rational method is used to estimate",
+		"Fish production": "peak runoff rate",
+		"Food grain production": "runoff volume",
+		"Oilseed production": "runoff depth",
+		"Milk production": "direct surface runoff"
+	},
+	{
+		"The Blue Revolution is related with?": "The process of determining the elevation of different points in a vertical plane is known as",
+		"Fish production": "levelling",
+		"Food grain production": "Surveying",
+		"Oilseed production": "Tacheometry",
+		"Milk production": "contouring"
+	},
+	{
+		"The Blue Revolution is related with?": "Dupuit-Forchheimer assumptions are used for analyzing groundwater flow in?",
+		"Fish production": "unconfined aquifers",
+		"Food grain production": "confined aquifers",
+		"Oilseed production": "leaky aquifer",
+		"Milk production": "leaky confined aquifers"
+	},
+	{
+		"The Blue Revolution is related with?": "Mole drain is the most suitable drainage system for",
+		"Fish production": "heavy clay soil",
+		"Food grain production": "loamy soil",
+		"Oilseed production": "sandy soil",
+		"Milk production": "silty soil"
+	},
+	{
+		"The Blue Revolution is related with?": "For a watershed",
+		"Fish production": " the universal soil-loss equation computes",
+		"Food grain production": "average annual soil loss",
+		"Oilseed production": "annual runoff",
+		"Milk production": "erodibility factor",
+		"": "average annual rainfall"
+	},
+	{
+		"The Blue Revolution is related with?": "Darcy's law is valid for",
+		"Fish production": "laminar flow",
+		"Food grain production": "transient flow",
+		"Oilseed production": "turbulent flow",
+		"Milk production": "laminar and turbulent flow"
+	},
+	{
+		"The Blue Revolution is related with?": "Soil detachability increases as the",
+		"Fish production": "size of particle increases",
+		"Food grain production": "size ofpartic1e reduces",
+		"Oilseed production": "length of slope reduces",
+		"Milk production": "impact angle of raindrop reduces"
+	},
+	{
+		"The Blue Revolution is related with?": "A unit hydrograph has",
+		"Fish production": "one unit of direct runoff",
+		"Food grain production": "one unit of peak discharge",
+		"Oilseed production": "one unit of rainfall duration",
+		"Milk production": "none of these"
+	},
+	{
+		"The Blue Revolution is related with?": "Two bacteria most useful in genetic engineering are",
+		"Fish production": "Escherichia and Agrobacterium",
+		"Food grain production": "Rhizobium and Azobacter",
+		"Oilseed production": "Nitrosomonas and Klebsilla",
+		"Milk production": "Rhizobium and Diplococcus"
+	},
+	{
+		"The Blue Revolution is related with?": "Transposon is known as",
+		"Fish production": "Jumping gene",
+		"Food grain production": "IS element",
+		"Oilseed production": "conservative gene",
+		"Milk production": "co integrate gene"
+	},
+	{
+		"The Blue Revolution is related with?": "The uptake of plasmid DNA into the bacterial cell is facilitated by the presence of — in the medium",
+		"Fish production": "Calcium Chloride",
+		"Food grain production": "Potassium chloride",
+		"Oilseed production": "Magnesium chloride",
+		"Milk production": "none of these"
+	},
+	{
+		"The Blue Revolution is related with?": "The travel of gene expression and gene activation can be measured using",
+		"Fish production": "Marker gene",
+		"Food grain production": "Reporter gene",
+		"Oilseed production": "Gene sequences",
+		"Milk production": "Promoter element"
+	},
+	{
+		"The Blue Revolution is related with?": "The enzyme required to obtained wall free/ nacked protoplasts are",
+		"Fish production": "cellulase and pectinase",
+		"Food grain production": "amylase and pectinase",
+		"Oilseed production": "cellulase and amylase",
+		"Milk production": "cellulase and proteinase"
+	},
+	{
+		"The Blue Revolution is related with?": "A synchronous culture is one in which the majority of cells proceed through",
+		"Fish production": "each cell cycle phase (G1",
+		"Food grain production": " S",
+		"Oilseed production": " G2 and M)",
+		"Milk production": "exponential phase",
+		"": "Lag phase"
+	},
+	{
+		"The Blue Revolution is related with?": "DNA molecules",
+		"Fish production": " identical except for different numbers of superhelical turns are called",
+		"Food grain production": "Topoisomers",
+		"Oilseed production": "Chain isomers",
+		"Milk production": "Helical isomers",
+		"": "Geometrical isomers"
+	},
+	{
+		"The Blue Revolution is related with?": "Application of embryo culture is in",
+		"Fish production": "overcoming hybridisation barrier",
+		"Food grain production": "clonal propagation",
+		"Oilseed production": "Production of alkaloids",
+		"Milk production": "Production of soma clonal variation"
+	},
+	{
+		"The Blue Revolution is related with?": "The horizontal component of pull parallel to direction of travel",
+		"Fish production": "Draft",
+		"Food grain production": "Side draft",
+		"Oilseed production": "Unit draft",
+		"Milk production": "None of these"
+	},
+	{
+		"The Blue Revolution is related with?": "The horizontal component of pull perpendicular to direction of travel is",
+		"Fish production": "Side draft",
+		"Food grain production": "Draft",
+		"Oilseed production": "Unit draft",
+		"Milk production": "None of these"
+	},
+	{
+		"The Blue Revolution is related with?": "An instrument used to measure soil compaction is ",
+		"Fish production": "Cone penetrometer",
+		"Food grain production": "Hydrometer",
+		"Oilseed production": "Tachometer",
+		"Milk production": "Hygrometer"
+	},
+	{
+		"The Blue Revolution is related with?": "The L-shape blade of rotavator are used for seedbed preparation in",
+		"Fish production": "Hard and sticky soil",
+		"Food grain production": "Stony and trashy soil",
+		"Oilseed production": "Trashy and sandy soil",
+		"Milk production": "None of these"
+	},
+	{
+		"The Blue Revolution is related with?": "The true point of hitch of the implement is called ",
+		"Fish production": "Center of pull",
+		"Food grain production": "Line of pull",
+		"Oilseed production": "Center of resistance",
+		"Milk production": "All are correct"
+	},
+	{
+		"The Blue Revolution is related with?": "A mould board that is used for a greater degree of pulverization is known as",
+		"Fish production": "Stubble bottom",
+		"Food grain production": "Sod bottom ",
+		"Oilseed production": "General purpose",
+		"Milk production": "Slat bottom"
+	},
+	{
+		"The Blue Revolution is related with?": "The penetration of animal-drawn disc harrows can be increased by",
+		"Fish production": "increasing disc angle",
+		"Food grain production": "increasing tilt angle",
+		"Oilseed production": "Increasing forward speed",
+		"Milk production": "All are correct"
+	},
+	{
+		"The Blue Revolution is related with?": "12. Moisture content DB < Moisture content WB",
+		"Fish production": "0",
+		"Food grain production": "1",
+		"Oilseed production": "Equal",
+		"Milk production": "None"
+	},
+	{
+		"The Blue Revolution is related with?": "13. Range of water activity?",
+		"Fish production": "0 to 1",
+		"Food grain production": "0 to -1",
+		"Oilseed production": "1 to -1",
+		"Milk production": "None"
+	},
+	{
+		"The Blue Revolution is related with?": "14. Best growth of micro organisms for water activity value?",
+		"Fish production": "0.98",
+		"Food grain production": "0.6",
+		"Oilseed production": "0.5",
+		"Milk production": "0.2"
+	}
+]
