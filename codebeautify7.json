@@ -1,0 +1,355 @@
+[
+	{
+		"question": "The power consumed in secondary tillage operations per unit area",
+		"option1": "Less as compared to primary tillage",
+		"option2": "More as compared to primary tillage",
+		"option3": "Same as primary tillage",
+		"option4": "None of these"
+	},
+	{
+		"question": "A part of MB plough which lifts",
+		"option1": " turns and break furrow slice is",
+		"option2": "Mouldboard",
+		"option3": "Share",
+		"option4": "Landside"
+	},
+	{
+		"question": "The part of MB plough that resist the side pressure exerted by the furrow slice is",
+		"option1": "Landside",
+		"option2": "Mouldboard",
+		"option3": "Gunnel",
+		"option4": "Frog"
+	},
+	{
+		"question": "In disc plough the angle at which the plane of cutting edge of disc is inclined to the direction of travel",
+		"option1": "Disc angle",
+		"option2": "Tilt angle",
+		"option3": "Gang angle",
+		"option4": "None of these"
+	},
+	{
+		"question": "In disc plough the angle at which the plane of cutting edge of disc is inclined to the vertical line",
+		"option1": "Tilt angle",
+		"option2": "Disc angle",
+		"option3": "Gang angle",
+		"option4": "None of these"
+	},
+	{
+		"question": "Disc angle of standard disc plough varies from",
+		"option1": "42-45◦",
+		"option2": "15-25◦",
+		"option3": "25-35◦",
+		"option4": "35-42◦"
+	},
+	{
+		"question": "1 cP is equal to?",
+		"option1": "10^-3 pa.s",
+		"option2": "10^-4 pa.s",
+		"option3": "10^-2 pa.s",
+		"option4": "10^-1 pa.s"
+	},
+	{
+		"question": "The term ",
+		"option1": "Hydraulic dia",
+		"option2": "Dia",
+		"option3": "Nominal dia",
+		"option4": "Enternal dia"
+	},
+	{
+		"question": "Shpae factor is equal to?",
+		"option1": "6. Vp/Sp.Dp",
+		"option2": "6. Sp/Vp.Dp",
+		"option3": "Dp.Sp/6.Vp",
+		"option4": "Dp.Vp/6.Sp"
+	},
+	{
+		"question": " Unit of coeff of thermal conductivity?",
+		"option1": "W/m2K",
+		"option2": "W/mk",
+		"option3": "W/m3k",
+		"option4": "W/mk2"
+	},
+	{
+		"question": "Following are same in dimension.",
+		"option1": "U and h",
+		"option2": "h and k",
+		"option3": "U and k ",
+		"option4": "All three"
+	},
+	{
+		"question": "Capacity ratio for a regenerator is equal to?",
+		"option1": "1",
+		"option2": "0",
+		"option3": "-1",
+		"option4": "None"
+	},
+	{
+		"question": "7. Capacity ration for condenser is equal to?",
+		"option1": "0",
+		"option2": "1",
+		"option3": "-1",
+		"option4": "None"
+	},
+	{
+		"question": "8. Emmisivity for a black body is?",
+		"option1": "1",
+		"option2": "0",
+		"option3": "0.5",
+		"option4": "None"
+	},
+	{
+		"question": "9. A body moving upward. Which force will act on it in the upward direction?",
+		"option1": "Buoyancy",
+		"option2": "Drag",
+		"option3": "Gravity",
+		"option4": "All"
+	},
+	{
+		"question": "10. Centrifugal force makes a body to move in which direction?",
+		"option1": "Tangential",
+		"option2": "Axial ",
+		"option3": "Radial",
+		"option4": "None"
+	},
+	{
+		"question": "11. In Bond's law",
+		"option1": " unit of working index is?",
+		"option2": "kW/hr. tonn",
+		"option3": "KW. tonn/hr",
+		"option4": "KW/tonn"
+	},
+	{
+		"question": "The Rational method is used to estimate",
+		"option1": "peak runoff rate",
+		"option2": "runoff volume",
+		"option3": "runoff depth",
+		"option4": "direct surface runoff"
+	},
+	{
+		"question": "The process of determining the elevation of different points in a vertical plane is known as",
+		"option1": "levelling",
+		"option2": "Surveying",
+		"option3": "Tacheometry",
+		"option4": "contouring"
+	},
+	{
+		"question": "Dupuit-Forchheimer assumptions are used for analyzing groundwater flow in?",
+		"option1": "unconfined aquifers",
+		"option2": "confined aquifers",
+		"option3": "leaky aquifer",
+		"option4": "leaky confined aquifers"
+	},
+	{
+		"question": "Mole drain is the most suitable drainage system for",
+		"option1": "heavy clay soil",
+		"option2": "loamy soil",
+		"option3": "sandy soil",
+		"option4": "silty soil"
+	},
+	{
+		"question": "For a watershed",
+		"option1": " the universal soil-loss equation computes",
+		"option2": "average annual soil loss",
+		"option3": "annual runoff",
+		"option4": "erodibility factor"
+	},
+	{
+		"question": "Darcy's law is valid for",
+		"option1": "laminar flow",
+		"option2": "transient flow",
+		"option3": "turbulent flow",
+		"option4": "laminar and turbulent flow"
+	},
+	{
+		"question": "Soil detachability increases as the",
+		"option1": "size of particle increases",
+		"option2": "size ofpartic1e reduces",
+		"option3": "length of slope reduces",
+		"option4": "impact angle of raindrop reduces"
+	},
+	{
+		"question": "A unit hydrograph has",
+		"option1": "one unit of direct runoff",
+		"option2": "one unit of peak discharge",
+		"option3": "one unit of rainfall duration",
+		"option4": "none of these"
+	},
+	{
+		"question": "Two bacteria most useful in genetic engineering are",
+		"option1": "Escherichia and Agrobacterium",
+		"option2": "Rhizobium and Azobacter",
+		"option3": "Nitrosomonas and Klebsilla",
+		"option4": "Rhizobium and Diplococcus"
+	},
+	{
+		"question": "Transposon is known as",
+		"option1": "Jumping gene",
+		"option2": "IS element",
+		"option3": "conservative gene",
+		"option4": "co integrate gene"
+	},
+	{
+		"question": "The uptake of plasmid DNA into the bacterial cell is facilitated by the presence of — in the medium",
+		"option1": "Calcium Chloride",
+		"option2": "Potassium chloride",
+		"option3": "Magnesium chloride",
+		"option4": "none of these"
+	},
+	{
+		"question": "The travel of gene expression and gene activation can be measured using",
+		"option1": "Marker gene",
+		"option2": "Reporter gene",
+		"option3": "Gene sequences",
+		"option4": "Promoter element"
+	},
+	{
+		"question": "The enzyme required to obtained wall free/ nacked protoplasts are",
+		"option1": "cellulase and pectinase",
+		"option2": "amylase and pectinase",
+		"option3": "cellulase and amylase",
+		"option4": "cellulase and proteinase"
+	},
+	{
+		"question": "A synchronous culture is one in which the majority of cells proceed through",
+		"option1": "each cell cycle phase (G1",
+		"option2": " S",
+		"option3": " G2 and M)",
+		"option4": "exponential phase"
+	},
+	{
+		"question": "DNA molecules",
+		"option1": " identical except for different numbers of superhelical turns are called",
+		"option2": "Topoisomers",
+		"option3": "Chain isomers",
+		"option4": "Helical isomers"
+	},
+	{
+		"question": "Application of embryo culture is in",
+		"option1": "overcoming hybridisation barrier",
+		"option2": "clonal propagation",
+		"option3": "Production of alkaloids",
+		"option4": "Production of soma clonal variation"
+	},
+	{
+		"question": "The horizontal component of pull parallel to direction of travel",
+		"option1": "Draft",
+		"option2": "Side draft",
+		"option3": "Unit draft",
+		"option4": "None of these"
+	},
+	{
+		"question": "The horizontal component of pull perpendicular to direction of travel is",
+		"option1": "Side draft",
+		"option2": "Draft",
+		"option3": "Unit draft",
+		"option4": "None of these"
+	},
+	{
+		"question": "An instrument used to measure soil compaction is ",
+		"option1": "Cone penetrometer",
+		"option2": "Hydrometer",
+		"option3": "Tachometer",
+		"option4": "Hygrometer"
+	},
+	{
+		"question": "The L-shape blade of rotavator are used for seedbed preparation in",
+		"option1": "Hard and sticky soil",
+		"option2": "Stony and trashy soil",
+		"option3": "Trashy and sandy soil",
+		"option4": "None of these"
+	},
+	{
+		"question": "The true point of hitch of the implement is called ",
+		"option1": "Center of pull",
+		"option2": "Line of pull",
+		"option3": "Center of resistance",
+		"option4": "All are correct"
+	},
+	{
+		"question": "A mould board that is used for a greater degree of pulverization is known as",
+		"option1": "Stubble bottom",
+		"option2": "Sod bottom ",
+		"option3": "General purpose",
+		"option4": "Slat bottom"
+	},
+	{
+		"question": "The penetration of animal-drawn disc harrows can be increased by",
+		"option1": "increasing disc angle",
+		"option2": "increasing tilt angle",
+		"option3": "Increasing forward speed",
+		"option4": "All are correct"
+	},
+	{
+		"question": "12. Moisture content DB < Moisture content WB",
+		"option1": "0",
+		"option2": "1",
+		"option3": "Equal",
+		"option4": "None"
+	},
+	{
+		"question": "13. Range of water activity?",
+		"option1": "0 to 1",
+		"option2": "0 to -1",
+		"option3": "1 to -1",
+		"option4": "None"
+	},
+	{
+		"question": "14. Best growth of micro organisms for water activity value?",
+		"option1": "0.98",
+		"option2": "0.6",
+		"option3": "0.5",
+		"option4": "0.2"
+	},
+	{
+		"question": "Rate at which moisture getting evaporated from surface is equal to rate of diffusion of moisture from center to surface. This situation corresponds to?",
+		"option1": "Constant rate ",
+		"option2": "First fall",
+		"option3": "Second fall",
+		"option4": "None"
+	},
+	{
+		"question": "In an evaporator mass flow rate of steam and condensate are different.",
+		"option1": "0",
+		"option2": "1",
+		"option3": "May be",
+		"option4": "None"
+	},
+	{
+		"question": "In a refrigetation system evaporator acts as?",
+		"option1": "Heat Exchanger",
+		"option2": "Heater",
+		"option3": "Cooler",
+		"option4": "All"
+	},
+	{
+		"question": "More concentrated product will come out from which one?",
+		"option1": "Singe effect",
+		"option2": "Double effect",
+		"option3": "Tripple effect",
+		"option4": "Same in all"
+	},
+	{
+		"question": "Solute upon adding to a solvent decreases its boilong point. ",
+		"option1": "0",
+		"option2": "1",
+		"option3": "May be",
+		"option4": "None"
+	},
+	{
+		"question": "Homogenization kills only pathogenic microorganisms",
+		"option1": "0",
+		"option2": "1",
+		"option3": "May be",
+		"option4": "None"
+	},
+	{
+		"question": "Colostrum should be fed to newborn calves for -",
+		"option1": "10 day",
+		"option2": "1/2 day",
+		"option3": "1 day",
+		"option4": "4 day"
+	},
+	{
+		"question": ""
+	}
+]
