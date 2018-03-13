@@ -1,0 +1,355 @@
+[
+	{
+		"question": "Three-bottom",
+		"option1": " tractor drawn",
+		"option2": " mounted type mould board plow will have",
+		"option3": "landside in all the bottoms",
+		"option4": "landside in the rear bottom only"
+	},
+	{
+		"question": "A powertiller should preferably be recommended for use in",
+		"option1": "rotatilling of hard field",
+		"option2": "primary tillage operation with MB plough",
+		"option3": "puddling of paddy fieid with rototiller",
+		"option4": "None of these"
+	},
+	{
+		"question": "In a precision planter the height of drop of seeds from the hopper to the ground surface should be",
+		"option1": "as close to the ground surface as possible",
+		"option2": "at least 90 cm",
+		"option3": "at least 45 cm",
+		"option4": "None of these"
+	},
+	{
+		"question": "The cutterbar of a tractor-operated mower normally makes",
+		"option1": "1600 - 2000 strokes/min",
+		"option2": "1200-1600 strokes/min",
+		"option3": "2000 - 2400 strokes/min",
+		"option4": "800 - 1200 strokes/min"
+	},
+	{
+		"question": "The size of a seed drill is expressed by",
+		"option1": "no. of furrow openers x distance between them",
+		"option2": "area covered per unit time",
+		"option3": "length x width of the machine",
+		"option4": "amount of seed sown per unit time"
+	},
+	{
+		"question": "The type of bearing generally used to support the discs on a standard disc plough is",
+		"option1": "tapered roller bearing",
+		"option2": "ball bearing",
+		"option3": "plain roller bearing",
+		"option4": "bush bearing"
+	},
+	{
+		"question": "A power tiller is most suited for",
+		"option1": "rotary cultivation",
+		"option2": "stationary operation",
+		"option3": "transport work",
+		"option4": "draft operation with rigid tools"
+	},
+	{
+		"question": "1 Tonn of Refrigeration in J/s",
+		"option1": "3500",
+		"option2": "4200",
+		"option3": "3100",
+		"option4": "2900"
+	},
+	{
+		"question": "A refrigeration cycle works on carnot cycle",
+		"option1": "0",
+		"option2": "1",
+		"option3": "May be",
+		"option4": "None"
+	},
+	{
+		"question": "COP = Work done on the system/ Heat delivered to hot body",
+		"option1": "0",
+		"option2": "1",
+		"option3": "May be",
+		"option4": "None"
+	},
+	{
+		"question": "In janseens formula",
+		"option1": " ",
+		"option2": "Top",
+		"option3": "Bottom",
+		"option4": "Anywhere"
+	},
+	{
+		"question": "Heat pump works on carnot cycle",
+		"option1": "1",
+		"option2": "0",
+		"option3": "Maybe",
+		"option4": "None"
+	},
+	{
+		"question": "Upon fermention",
+		"option1": " yeast converts sugar into alcohol",
+		"option2": "1",
+		"option3": "0",
+		"option4": "may be"
+	},
+	{
+		"question": "Denaturation of fat may take place under adverse environmental condition.",
+		"option1": "0",
+		"option2": "1",
+		"option3": "May be",
+		"option4": "none"
+	},
+	{
+		"question": "Gluten protein is present in",
+		"option1": "Wheat",
+		"option2": "Paddy",
+		"option3": "Maize",
+		"option4": "Lentils"
+	},
+	{
+		"question": "For making perfect dough what amount of water should be added to wheat flour?",
+		"option1": "60%",
+		"option2": "50%",
+		"option3": "70%",
+		"option4": "30%"
+	},
+	{
+		"question": "A typical rice grain contains bran layer upto",
+		"option1": "10%",
+		"option2": "20%",
+		"option3": "15%",
+		"option4": "25%"
+	},
+	{
+		"question": "Theaflavin and Thearubigins are present in ",
+		"option1": "Tea",
+		"option2": "Coffee",
+		"option3": "Milk",
+		"option4": "None"
+	},
+	{
+		"question": "The side slopes of a Cippoletti Weir is",
+		"option1": "1 in 4",
+		"option2": "4 in 1",
+		"option3": "4%",
+		"option4": "4:00"
+	},
+	{
+		"question": "Erosion index is based on",
+		"option1": "I30",
+		"option2": "I60",
+		"option3": "I45",
+		"option4": "I15"
+	},
+	{
+		"question": "The formula for estimation of evapotranspiration using only temperature and day length is ",
+		"option1": "Blaney-Criddle formula",
+		"option2": "Thomthwaite formula",
+		"option3": "Penman formula",
+		"option4": "Christiansen formula"
+	},
+	{
+		"question": "In the Rational formula Q = 0.0028 C.I.A.",
+		"option1": " I is the intensity of rainfall in",
+		"option2": "mm per hour",
+		"option3": "cm per hour",
+		"option4": "m per hour"
+	},
+	{
+		"question": "Contour bunds are adopted",
+		"option1": "In low rainfall regions",
+		"option2": "In highly pervious soils",
+		"option3": "In high rainfall regions",
+		"option4": "none of these"
+	},
+	{
+		"question": "In a fluid flow system velocity at one point only is measured by",
+		"option1": "Pitot tube",
+		"option2": "Anemometer",
+		"option3": "Orifice meter",
+		"option4": "Rotameter"
+	},
+	{
+		"question": "Drop spillways are often used to stabilize",
+		"option1": "Gully erosion",
+		"option2": "Wind erosion",
+		"option3": "Sheet erosion",
+		"option4": "Rill erosion"
+	},
+	{
+		"question": "The ratio of the volume of voids to the total soil volume is called",
+		"option1": "Porosity",
+		"option2": "Void ratio",
+		"option3": "Dry bulk density",
+		"option4": "Wet bulk density"
+	},
+	{
+		"question": "Which type of restriction enzymes are commonly used in rDNA technology",
+		"option1": "Type II",
+		"option2": "Type III",
+		"option3": "Type I",
+		"option4": "Type Iv"
+	},
+	{
+		"question": "Which of the following enzyme is used to join two DNA molecule",
+		"option1": "ligases",
+		"option2": "nuclease",
+		"option3": "restriction enzymes",
+		"option4": "nuclease"
+	},
+	{
+		"question": "Thiobacillus thioxidans grows on",
+		"option1": "Pyrites",
+		"option2": "Aluminium",
+		"option3": "sulphur",
+		"option4": "iron"
+	},
+	{
+		"question": "Which of the following is a herbicide resistant gene",
+		"option1": "Bar",
+		"option2": "Hpt",
+		"option3": "oxidase",
+		"option4": "none of these"
+	},
+	{
+		"question": "Endochitinase can be used as an",
+		"option1": "Antifungal",
+		"option2": "Antibacterial ",
+		"option3": "Antiviral",
+		"option4": "Antinematodal"
+	},
+	{
+		"question": "The most common solidifying agent used in micropropagation is ",
+		"option1": "agar",
+		"option2": "dextran",
+		"option3": "Mannan",
+		"option4": "all of these"
+	},
+	{
+		"question": "The culturing of cells in liquid agitated medium is called",
+		"option1": "suspension culture",
+		"option2": "Agar culture",
+		"option3": "liquid culture",
+		"option4": "micropropagation"
+	},
+	{
+		"question": "Which of the following is best suited method for production of virus free plants",
+		"option1": "meristem culture",
+		"option2": "embryo culture",
+		"option3": "anther culture",
+		"option4": "ovule culture"
+	},
+	{
+		"question": "For phase change",
+		"option1": " which is required?",
+		"option2": "Latent",
+		"option3": "Sensible",
+		"option4": "Enthalpy"
+	},
+	{
+		"question": "Specific heat of water in J/kg-K",
+		"option1": "4187",
+		"option2": "5283",
+		"option3": "4.18",
+		"option4": "7260"
+	},
+	{
+		"question": "At optimum soil moisture content",
+		"option1": " the dry density of soil will be",
+		"option2": "maximum",
+		"option3": "average",
+		"option4": "minimum"
+	},
+	{
+		"question": "Ergun's equation is applicable to",
+		"option1": "porous media flow",
+		"option2": "laminar flow",
+		"option3": "turbulent flow",
+		"option4": "slit flow"
+	},
+	{
+		"question": "The time of concentration of a watershed is proportional to",
+		"option1": "S-0.185",
+		"option2": "s1.77",
+		"option3": "L1.77",
+		"option4": "none of these"
+	},
+	{
+		"question": "For a well",
+		"option1": " yield per unit of draw down is",
+		"option2": "specific capacity",
+		"option3": "specific yield",
+		"option4": "well yield"
+	},
+	{
+		"question": "A rainfall with an intensity of 5 mmIh is classified as",
+		"option1": "moderate rain",
+		"option2": "drizzle",
+		"option3": "light rain",
+		"option4": "heavy rain"
+	},
+	{
+		"question": "Cypress Creek formula is used to compute design discharge for",
+		"option1": "flat land",
+		"option2": "sloppy land",
+		"option3": "creek",
+		"option4": "none of these"
+	},
+	{
+		"question": "The upper limit of a tensiometer for soil moisture tension measurement is",
+		"option1": "85 centibar",
+		"option2": "100 centibar",
+		"option3": "0.85 centibar",
+		"option4": "8.5 centibar"
+	},
+	{
+		"question": "Soil erosion is more in",
+		"option1": "sandy soils",
+		"option2": "silty soils",
+		"option3": "clay loam",
+		"option4": "difficult to say"
+	},
+	{
+		"question": "Haploid culture are obtained from",
+		"option1": "pollen grain",
+		"option2": "bud",
+		"option3": "leaves",
+		"option4": "root tips"
+	},
+	{
+		"question": "Differentiation of shoot in plant tissue culture is controlled by",
+		"option1": "high cytokinin : auxin ratio",
+		"option2": "high gibberellin : cytokinin ratio",
+		"option3": "high gibberellin: auxin ratio",
+		"option4": "none of these"
+	},
+	{
+		"question": "Genetic variation can be introduced into bacteria by all of the following methods except",
+		"option1": "DNA amplification",
+		"option2": "transformation",
+		"option3": "mutation",
+		"option4": "transduction"
+	},
+	{
+		"question": "All of the following enzymes are involved in DNA replication except",
+		"option1": "RNA polymerase",
+		"option2": "DNA polymerase",
+		"option3": "helicase",
+		"option4": "primase"
+	},
+	{
+		"question": "Restriction enzymes are also called as",
+		"option1": "biological scissors",
+		"option2": "molecular scalpels",
+		"option3": "molecular knives",
+		"option4": "all of these"
+	},
+	{
+		"question": "The number of essential mineral elements of plant is -",
+		"option1": "16",
+		"option2": "13",
+		"option3": "20",
+		"option4": "21"
+	},
+	{
+		"question": ""
+	}
+]
